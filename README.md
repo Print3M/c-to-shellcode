@@ -1,3 +1,6 @@
+
+> ⚠️ **NOTICE:** Check out the [EPIC](https://github.com/Print3M/epic) project for my latest modern, reliable solution for converting C code into PIC shellcode.
+
 # c-to-shellcode.py
 
 It's a simple Python script to easily convert C code to shellcode (standalone binary machine code) with one command 👾🐚 Read more: [From C to shellcode](https://print3m.github.io/blog/from-c-to-shellcode)
